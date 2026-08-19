@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pogtan", "Pogtan\Pogtan.csproj", "{EDD2FB45-D066-49A7-9059-3AAE72F34A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pogtan.Tests", "Pogtan.Tests\Pogtan.Tests.csproj", "{911141EA-FDB0-430C-A63B-C0E8389CD5C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,9 @@ Global
 		{EDD2FB45-D066-49A7-9059-3AAE72F34A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD2FB45-D066-49A7-9059-3AAE72F34A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD2FB45-D066-49A7-9059-3AAE72F34A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911141EA-FDB0-430C-A63B-C0E8389CD5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911141EA-FDB0-430C-A63B-C0E8389CD5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911141EA-FDB0-430C-A63B-C0E8389CD5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911141EA-FDB0-430C-A63B-C0E8389CD5C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
